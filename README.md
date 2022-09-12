@@ -1,24 +1,44 @@
-# README
+# Hello Rails React
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Generate Random message using react and rails in one app
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Webpack
+- React
+- Redux
+- Rails 7.0
 
-* System dependencies
+### Prerequisites
 
-* Configuration
+- Make sure you already installed Ruby version 3 or higher, Rails 7, and Git.
 
-* Database creation
+### Setup
 
-* Database initialization
+Clone the repository using the below commands.
 
-* How to run the test suite
+- `git clone git@github.com:EidHachem/rails-react.git `
+- `cd rails-react`
+- `bundle install`
+- `rails db:create db:migrate db:seed`
+- `yarn install`
+- `yarn build`
+- `./bin/dev`
 
-* Services (job queues, cache servers, search engines, etc.)
+## Author
 
-* Deployment instructions
+👤 **Eid Hachem**
 
-* ...
+- GitHub: [@EidHachem](https://github.com/EidHachem)
+- Twitter: [@eidHachem1](https://twitter.com/@eidHachem1)
+- LinkedIn: [Eid Hachem](https://www.linkedin.com/in/eid-hachem/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/EidHachem/rails-react/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
