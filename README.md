@@ -1,6 +1,6 @@
 # Hello Rails React
 
-Generate Random message using react and rails in one app
+This app was built with rails 7 and react, it generates random messages everytime the user refresh the page, it also provids an api endpoint that you can use to build front-end projects.
 
 ## Built With
 
@@ -12,6 +12,12 @@ Generate Random message using react and rails in one app
 ### Prerequisites
 
 - Make sure you already installed Ruby version 3 or higher, Rails 7, and Git.
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps:
+- visit `https://github.com/EidHachem/rails-react/`
+- Clone the repo or download it as zip file
 
 ### Setup
 
@@ -42,3 +48,7 @@ Feel free to check the [issues page](https://github.com/EidHachem/rails-react/is
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
